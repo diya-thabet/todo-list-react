@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  padding: 10px;
+}
+
+.options {
+  display: flex;
+  text-decoration-line: none;
+}
+
+.options button {
+  margin-left: 30px;
+
+  all: unset;
+  cursor: pointer;
+  padding: 0.5em 1em;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border-radius: 4px;
+  font-size: 1.5rem;
+}
+
+.title {
+  margin-right: 25px;
+  margin-left: 25px;
+}

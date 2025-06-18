@@ -1,0 +1,14 @@
+.task {
+  width: 30%;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.task-title {
+  margin: 10px;
+}
+
+.task-details {
+  margin: 10px;
+}
