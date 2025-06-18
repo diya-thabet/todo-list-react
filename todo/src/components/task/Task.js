@@ -4,7 +4,13 @@ export default function Task() {
   return (
     <>
       <div className="task">
-        <h3 className="task-title">title</h3>
+        <div className="flex">
+          <h3 className="task-title">title</h3>
+          <button>add</button>
+          <button>edit</button>
+          <button>remove</button>
+        </div>
+
         <hr />
         <div>
           <p className="task-details">

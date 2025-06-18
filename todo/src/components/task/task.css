@@ -3,6 +3,7 @@
   border: 2px solid black;
   border-radius: 10px;
   margin: 10px;
+  background: rgba(0, 253, 17, 0.067);
 }
 
 .task-title {
@@ -11,4 +12,18 @@
 
 .task-details {
   margin: 10px;
+}
+
+.flex {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(0, 255, 42, 0.243);
+  border-radius: 10px;
+}
+.flex button {
+  margin-left: 10px;
+  background-color: rgba(0, 255, 0, 0.399);
+  border-radius: 10px;
+  cursor: pointer;
 }
