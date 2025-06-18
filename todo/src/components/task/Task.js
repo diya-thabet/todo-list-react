@@ -5,7 +5,7 @@ export default function Task() {
     <>
       <div className="task">
         <div className="flex">
-          <h3 className="task-title">title</h3>
+          <h3 className="task-title">title of the task</h3>
           <button>add</button>
           <button>edit</button>
           <button>remove</button>
